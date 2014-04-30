@@ -1,0 +1,1 @@
+Dette er en readme-fil. Lagt til kun fordi GitHub egentlig er teit.
